@@ -2,3 +2,5 @@ notebook
 pandas
 numpy
 matplotlib
+beautifulsoup4
+requests
